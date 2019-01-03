@@ -1,4 +1,4 @@
-# README
+# README [![Build Status](https://travis-ci.com/Ruyatama/try_travis_ci.svg?branch=master)](https://travis-ci.com/Ruyatama/try_travis_ci)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
